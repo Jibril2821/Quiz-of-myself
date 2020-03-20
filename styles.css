@@ -27,7 +27,7 @@ body {
 #choices > li {
   border: 1px solid #ccc;
   border-radius: 4px;
-  padding: 20px;
+  padding: 40px;
   margin-bottom: 10px;
   cursor: pointer;
 }
@@ -60,7 +60,7 @@ body {
 
 #btn, #result > a {
   background: #3498db;
-  padding: 18px;
+  padding: 35px;
   border-radius: 4px;
   cursor: pointer;
   text-align: center;
