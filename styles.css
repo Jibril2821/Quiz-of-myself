@@ -27,7 +27,7 @@ body {
 #choices > li {
   border: 1px solid #ccc;
   border-radius: 4px;
-  padding: 15px;
+  padding: 20px;
   margin-bottom: 10px;
   cursor: pointer;
 }
